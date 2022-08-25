@@ -1,7 +1,7 @@
 welcome_body =
     你好，我是 Telegram 群组看门狗！🐶
     我可以帮助群组新成员进行人机验证，保证机器人广告加不进来哒。
-welcome_links_github = <a href="https://github.com/Astrian/tg-watchdog">GitHub</a>
+welcome_links_github = <a href="https://github.com/tg-watchdog/tg-watchdog">GitHub</a>
 welcome_links_help = <a href="https://tgwatchdog.astrian.moe">帮助</a>
 welcome_links_community = <a href="https://t.me/tgwatchdog_chat">社群</a>
 welcome_links_channel = <a href="https://t.me/tgwatchdog_update">频道</a>
