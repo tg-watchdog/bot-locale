@@ -1,9 +1,6 @@
 welcome_body =
     こんにちワン！ぼくはテレグラムグループ向けのウォッチドッグです！🐶
     ぼくは新しく参加するメンバーを CAPTCHA で認証し、グループに迷惑メンバー参加の自動で阻止することができます。
-    詳しくはこちら: https://github.com/Astrian/tg-watchdog 
-    お試し + コミュニティ: https://t.me/tgwatchdog_chat 
-    チャンネル: https://t.me/tgwatchdog_update
 welcome_links_github = <a href="https://github.com/tg-watchdog/tg-watchdog">GitHub</a>
 welcome_links_help = <a href="https://tgwatchdog.astrian.moe">Help</a>
 welcome_links_community = <a href="https://t.me/tgwatchdog_chat">Community</a>
