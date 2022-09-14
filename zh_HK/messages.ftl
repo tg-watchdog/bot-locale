@@ -1,11 +1,13 @@
 welcome_body =
-    Hello! I am the watchdog for Telegram groups! 🐶
-    I can verify new members with CAPTCHA and prevent spam bot from group chats automatically.
-    Learn more: https://github.com/Astrian/tg-watchdog 
-    Try + Community: https://t.me/tgwatchdog_chat 
-    Channel: https://t.me/tgwatchdog_update
-welcome_setmeasadmin = Set me as group admin
-verify_message = Hello! I am the watchdog for the group { $groupname }! 🐶
-verify_loading = Wait a minute⋯
-verify_info = You need to pass CAPTCHA via the button below in order to join the group.
-verify_btn = Start verify
+    哈囉！我係 Telegram 群組聊天嘅看門狗！🐶
+    我可以幫你用 CAPTCHA 嘅方式驗證新成員，確保 spam bot 無法加入群組。
+welcome_links_github = <a href="https://github.com/tg-watchdog/tg-watchdog">GitHub</a>
+welcome_links_help = <a href="https://tgwatchdog.astrian.moe">幫助</a>
+welcome_links_community = <a href="https://t.me/tgwatchdog_chat">社群</a>
+welcome_links_channel = <a href="https://t.me/tgwatchdog_update">頻道</a>
+welcome_setmeasadmin = 將我設為群組管理員
+verify_message = 哈嘍，我係群組 { $groupname } 嘅看門狗！🐶
+verify_loading = 等陣先⋯
+verify_info = 你需要撳下邊呢粒制然後通過 CAPTCHA 驗證，之後先至能夠加入呢個群組。
+verify_btn = 開始驗證
+help = 如果冇似你咁樣嘅貢獻者，Telegram Watchdog 將無法在擁有如此強大功能前提下免費公開。<a href="https://t.me/tgwatchdog_update/32">捐助或參與貢獻</a>
