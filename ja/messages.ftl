@@ -10,4 +10,4 @@ verify_message = こんにちワン！ぼくは「{ $groupname }」グループ�
 verify_loading = しばらくお待ちください⋯
 verify_info = グループに参加するには、下のボタンを押して、CAPTCHA 認証を完了してください。
 verify_btn = 認証する
-help = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
+helpbot = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
