@@ -10,4 +10,4 @@ verify_message = 哈嘍，我係群組 { $groupname } 嘅看門狗！🐶
 verify_loading = 等陣先⋯
 verify_info = 你需要撳下邊呢粒制然後通過 CAPTCHA 驗證，之後先至能夠加入呢個群組。
 verify_btn = 開始驗證
-helpbot = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
+helpbot = 如果冇似你咁樣嘅貢獻者，Telegram Watchdog 將無法在擁有如此強大功能前提下免費公開。<a href="https://t.me/tgwatchdog_update/32">捐助或參與貢獻</a>
