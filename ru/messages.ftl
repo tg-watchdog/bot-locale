@@ -10,4 +10,4 @@ verify_message = Привет! Я защитник группы { $groupname }! 
 verify_loading = Пожалуйста, подождите⋯
 verify_info = Вы должны пройти CAPTCHA используя кнопку ниже, чтобы попасть в группу.
 verify_btn = Начать проверку
-helpbot = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
+helpbot = Защитник для групп Телеграм не существовал бы без поддержки таких замечательных людей, как вы. <a href="https://t.me/tgwatchdog_update/32">Пожертвуйте или внесите вклад в разработку</a>
