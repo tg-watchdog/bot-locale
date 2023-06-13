@@ -7,7 +7,7 @@ welcome_links_community = <a href="https://t.me/tgwatchdog_chat">Komunitas</a>
 welcome_links_channel = <a href="https://t.me/tgwatchdog_update">Channel</a>
 welcome_setmeasadmin = Jadikan saya sebagai admin
 verify_message = Halo! Saya adalah watchdog untuk grup { $groupname }! 🐶
-verify_loading = Tunggu beberapa menit⋯
+verify_loading = Tunggu beberapa saat⋯
 verify_info = Anda harus menyelesaikan CAPTCHA melalui tombol dibawah untuk dapat bergabung ke grup.
 verify_btn = Mulai verifikasi
 helpbot = Telegram Watchdog tidak akan memiliki fitur yang fantastis tanpa dari kontribusi seperti anda. <a href="https://t.me/tgwatchdog_update/32">Donasi atau berkontribusi</a>
