@@ -10,4 +10,4 @@ verify_message = Halo! Saya adalah watchdog untuk grup { $groupname }! 🐶
 verify_loading = Tunggu beberapa menit⋯
 verify_info = Anda harus menyelesaikan CAPTCHA melalui tombol dibawah untuk dapat bergabung ke grup.
 verify_btn = Mulai verifikasi
-helpbot = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
+helpbot = Telegram Watchdog tidak akan memiliki fitur yang fantastis tanpa dari kontribusi seperti anda. <a href="https://t.me/tgwatchdog_update/32">Donasi atau berkontribusi</a>
