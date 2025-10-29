@@ -10,4 +10,5 @@ verify_message = Hello! I am the watchdog for the group { $groupname }! 🐶
 verify_loading = Wait a minute⋯
 verify_info = You need to pass CAPTCHA via the button below in order to join the group.
 verify_btn = Start verify
-helpbot = Telegram Watchdog hasn’t such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
+verify_btn_browser = Browser verify
+helpbot = Telegram Watchdog hasn't such a fantastic feature without contributions from people like you. <a href="https://t.me/tgwatchdog_update/32">Donate or contribute</a>
