@@ -10,4 +10,6 @@ verify_message = Merhaba! Ben { $groupname } grubunun bekçisiyim! 🐶
 verify_loading = Bir saniye bekle⋯
 verify_info = Gruba katılabilmek için aşağıdaki CAPTCHA doğrulama linkine tıklaman gerekiyor.
 verify_btn = Doğrulamayı başlat
+verify_btn_browser = Tarayıcı ile doğrula
+verify_fallback_link = <i>Aşağıdaki düğme ile doğrulama başlatamazsanız, tarayıcıdan doğrulamak için <a href="{$fallback_link}">buraya tıklayın</a>.</i>
 helpbot = Telegram Watchdog sizin desteklerinizle müthiş özellikler getirecek! <a href="https://t.me/tgwatchdog_update/32">Bağışlarınızla katkıda bulunun.</a>
