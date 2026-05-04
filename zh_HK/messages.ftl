@@ -4,7 +4,7 @@ welcome_body =
 welcome_links_github = <a href="https://github.com/tg-watchdog/tg-watchdog">GitHub</a>
 welcome_links_help = <a href="https://tgwatchdog.astrian.moe">幫助</a>
 welcome_links_community = <a href="https://t.me/tgwatchdog_chat">社群</a>
-welcome_links_channel = <a href="https://t.me/tgwatchdog_update">頻道</a>
+welcome_links_channel = <a href="https://t.me/c/tgwatchdog_chat/1514">頻道</a>
 welcome_setmeasadmin = 將我設為群組管理員
 verify_message = 哈嘍，我係群組 { $groupname } 嘅看門狗！🐶
 verify_loading = 等陣先⋯

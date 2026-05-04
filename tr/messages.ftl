@@ -4,7 +4,7 @@ welcome_body =
 welcome_links_github = <a href="https://github.com/tg-watchdog/tg-watchdog">GitHub</a>
 welcome_links_help = <a href="https://tgwatchdog.astrian.moe">Yardım</a>
 welcome_links_community = <a href="https://t.me/tgwatchdog_chat">Topluluk</a>
-welcome_links_channel = <a href="https://t.me/tgwatchdog_update">Kanal</a>
+welcome_links_channel = <a href="https://t.me/c/tgwatchdog_chat/1514">Kanal</a>
 welcome_setmeasadmin = Beni grup yöneticisi olarak ayarla
 verify_message = Merhaba! Ben { $groupname } grubunun bekçisiyim! 🐶
 verify_loading = Bir saniye bekle⋯
